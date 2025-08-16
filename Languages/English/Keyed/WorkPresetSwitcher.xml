@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<WorkPresetSwitcher_Saved>Saved to {0}.</WorkPresetSwitcher_Saved>
+	<WorkPresetSwitcher_Loaded>Loaded from {0}.</WorkPresetSwitcher_Loaded>
+	<WorkPresetSwitcher_Deleted>Deleted {0}.</WorkPresetSwitcher_Deleted>
+	<WorkPresetSwitcher_Renamed>Renamed from {0} to {1}.</WorkPresetSwitcher_Renamed>
+	<WorkPresetSwitcher_DoRename>enter a new name (max 9 characters).</WorkPresetSwitcher_DoRename>
+	<WorkPresetSwitcher_Cleared>Cleared.</WorkPresetSwitcher_Cleared>
+	<WorkPresetSwitcher_Save>Save</WorkPresetSwitcher_Save>
+	<WorkPresetSwitcher_Load>Load</WorkPresetSwitcher_Load>
+	<WorkPresetSwitcher_Delete>Delete</WorkPresetSwitcher_Delete>
+	<WorkPresetSwitcher_Rename>Rename</WorkPresetSwitcher_Rename>
+	<WorkPresetSwitcher_Clear>Clear</WorkPresetSwitcher_Clear>
+	<WorkPresetSwitcher_Cancel>Cancel</WorkPresetSwitcher_Cancel>
+</LanguageData>

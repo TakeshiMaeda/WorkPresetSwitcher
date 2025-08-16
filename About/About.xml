@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>WorkPresetSwitcher</name>
+  <author>Taberi</author>
+  <packageId>Taberi.WorkPresetSwitcher</packageId>
+  <modVersion>0.1</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>
+        仕事の優先度設定をプリセットとして保存、読み込み。
+        Allows you to save and load preset work priorities.
+  </description>
+</ModMetaData>

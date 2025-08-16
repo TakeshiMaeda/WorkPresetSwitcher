@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<WorkPresetSwitcher_Saved>{0}に保存しました。</WorkPresetSwitcher_Saved>
+	<WorkPresetSwitcher_Loaded>{0}から読み込みました。</WorkPresetSwitcher_Loaded>
+	<WorkPresetSwitcher_Deleted>{0}を削除しました。</WorkPresetSwitcher_Deleted>
+	<WorkPresetSwitcher_Renamed>{0}から{1}に名前を変更しました。</WorkPresetSwitcher_Renamed>
+	<WorkPresetSwitcher_Cleared>クリアしました。</WorkPresetSwitcher_Cleared>
+	<WorkPresetSwitcher_DoRename>9文字以内で名前を入力</WorkPresetSwitcher_DoRename>
+	<WorkPresetSwitcher_Save>保存</WorkPresetSwitcher_Save>
+	<WorkPresetSwitcher_Load>読込</WorkPresetSwitcher_Load>
+	<WorkPresetSwitcher_Delete>削除</WorkPresetSwitcher_Delete>
+	<WorkPresetSwitcher_Rename>名前変更</WorkPresetSwitcher_Rename>
+	<WorkPresetSwitcher_Clear>クリア</WorkPresetSwitcher_Clear>
+	<WorkPresetSwitcher_Cancel>キャンセル</WorkPresetSwitcher_Cancel>
+</LanguageData>
